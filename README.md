@@ -1,4 +1,4 @@
-# FDSFE_ARoy
+# MLTSA25_ARoy
 Repository for MLTSA 2025 class (PHYS664)
  
 Hello,
