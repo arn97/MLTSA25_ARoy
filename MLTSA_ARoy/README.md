@@ -10,7 +10,7 @@ Sujan Shrestha
 
 For this homework we didn't have roles specified and separated. Everyone contributed almost equally for each part.
 
-$\mathbb{Group Members for HW2:}$
+$\mathbb{Group Members for HW3:}$
 
 Arnab Roy
 
